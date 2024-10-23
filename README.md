@@ -1,3 +1,5 @@
+![Banner](Gititdone_readme_repo.gif)
+
 # 💫 About Me:
 💻 Your Description goes here!
 
